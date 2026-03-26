@@ -1,4 +1,4 @@
-# Shell Training Repository
+# Training Repository
 
 This repository contains various projects and exercises related to data science, machine learning, and sustainability. It serves as a learning resource for individuals interested in these fields.
 
