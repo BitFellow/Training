@@ -1,0 +1,17 @@
+Numerical Python
+
+Stats : It is a branch that involves the collection, organization, distribution, and analysis.
+
+
+Question:
+A college collected data on the number of hours students studied per week:
+
+5, 8, 10, 15, 18, 20, 22, 25
+
+Calculate the following:
+
+Mean: 15.375
+Median: 16.5
+Mode: None
+Standard Deviation: 7.13
+Coefficient of Range: 0.667
